@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "JSON Server backend for the web app",
   "scripts": {
-    "start": "json-server --watch db.json --port 3000"
-  },
+  "start": "node node_modules/json-server/lib/cli/bin.js --watch db.json --port 3000"
+  }, 
+
   "keywords": [],
   "author": "",
   "license": "ISC",
