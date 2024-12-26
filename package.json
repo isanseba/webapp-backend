@@ -2,7 +2,6 @@
   "name": "webapp-backend",
   "version": "1.0.0",
   "description": "JSON Server backend for the web app",
-  "main": "index.js",
   "scripts": {
     "start": "json-server --watch db.json --port 3000"
   },
