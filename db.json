@@ -4,7 +4,13 @@
       "id": 1,
       "username": "testuser",
       "password": "testpass",
-      "status": "free"
+      "status": "Free"
+    },
+    {
+      "id": 2,
+      "username": "isanseba",
+      "password": "AN211023!",
+      "status": "ADMIN"
     }
   ]
 }
