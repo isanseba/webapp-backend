@@ -2,15 +2,21 @@
   "users": [
     {
       "id": 1,
-      "username": "testuser",
-      "password": "testpass",
-      "status": "Free"
+      "username": "adminuser",
+      "password": "adminpass",
+      "status": "admin"
     },
     {
       "id": 2,
-      "username": "isanseba",
-      "password": "AN211023!",
-      "status": "ADMIN"
+      "username": "freeuser",
+      "password": "freepass",
+      "status": "free"
+    },
+    {
+      "id": 3,
+      "username": "paiduser",
+      "password": "paidpass",
+      "status": "paid"
     }
   ]
 }
