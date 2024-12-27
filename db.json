@@ -2,21 +2,21 @@
   "users": [
     {
       "id": 1,
-      "username": "adminuser",
+      "username": "admin",
       "password": "adminpass",
-      "status": "admin"
+      "status": "admin",
+      "googleApiKey": "",
+      "yelpApiKey": "",
+      "sendgridApiKey": ""
     },
     {
       "id": 2,
-      "username": "freeuser",
-      "password": "freepass",
-      "status": "free"
-    },
-    {
-      "id": 3,
-      "username": "paiduser",
-      "password": "paidpass",
-      "status": "paid"
+      "username": "business1",
+      "password": "businesspass",
+      "status": "paid",
+      "googleApiKey": "your_google_api_key_here",
+      "yelpApiKey": "your_yelp_api_key_here",
+      "sendgridApiKey": "your_sendgrid_api_key_here"
     }
   ]
 }
